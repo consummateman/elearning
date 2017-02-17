@@ -1,2 +1,2 @@
 # elearning
-E Learning platform using moodle
+We have changed the initial elearning text doc . This is Github 
